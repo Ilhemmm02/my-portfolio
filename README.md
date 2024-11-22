@@ -1,2 +1,2 @@
 # my-portfolio
-This portfolio showcases my work in computer science, highlighting projects in machine learning, differential equations, and modeling methodologies. Explore how I contributed to research on comet activity using machine learning at CRAAG, alongside other projects that reflect my problem-solving and technical skills.
+This portfolio showcases my work in computer science, featuring projects in deep learning (model regression, NLP, fine-tuning) and other areas explored during my academic journey, such as optimization and image classification. Explore my work and stay tuned for more updates!
